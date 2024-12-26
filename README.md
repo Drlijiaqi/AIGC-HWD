@@ -10,7 +10,9 @@ The AIGC-HWD (Artificial Intelligence Generated Content-Helmet Wearing Detection
 - **Performance:** Models exhibit adaptability with a mean Average Precision (mAP) ranging from 0.7 to 0.8 in real-world scenarios, enhancing further when combined with real-world data.
 
 ## Access
-The AIGC-HWD v1.0 dataset is available for download at: **URL Coming Soon**
+The AIGC-HWD v1.0 dataset is available for download at: **URL Coming Soon in 2025!**
+
+**_Once our paper is published, we will update the download url immediately!_**
 
 ## Usage
 This dataset is intended for academic and research purposes. It is particularly suited for developing and testing object detection models that require high accuracy and robustness in helmet detection across varied construction site environments.
